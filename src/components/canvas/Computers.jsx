@@ -1,9 +1,9 @@
-import React from 'react'
+import React, { Suspense, useEffect, useState } from "react";
 
-const Computers = () => {
-  return (
-    <div>Computers</div>
-  )
+import {Canvas} from "@react-three/fiber";
+
+function Computers() {
+	return <div>Computers</div>;
 }
 
-export default Computers
+export default Computers;
