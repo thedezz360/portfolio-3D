@@ -29,6 +29,6 @@ function App() {
 	);
 }
 
-//video: 40:40
+//video: 2:29
 
 export default App;
